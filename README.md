@@ -12,7 +12,7 @@
 
 # Kurulum.
 
-> Öncelikle kendimize [buradan](https://app.pingpong.build/points?invite_code=e6ny5YsT) bir Pingpong hesap oluşturuyoruz.
+> Öncelikle kendimize [buradan](https://app.pingpong.build/points?invite_code=BN8zbEnS) bir Pingpong hesap oluşturuyoruz.
 
 > Burası app ksımı ve app'de ki testnet işlemlerini de yapabilirsiniz - bu konuda chatte yardımlaşırsınız.
 
